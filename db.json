@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "Gasosa - Blue",
+      "price": "180",
+      "id": 14
+    },
+    {
+      "name": "Fanta",
+      "price": "200",
+      "id": 15
+    },
+    {
+      "name": "Batata",
+      "price": "500",
+      "id": 16
+    }
+  ]
+}
